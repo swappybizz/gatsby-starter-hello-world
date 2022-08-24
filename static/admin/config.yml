@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo : swappybizz/gatsby-starter-hello-world
+ name: git-gateway
+branch: main
   
 media_folder: static/assets
 public_folder: assets
